@@ -1,10 +1,13 @@
-Jacob Berry
-London
-Python // JavaScript // CSS + HTML
-Building games with pygame
-Developing an app with unity andorid kit
+### Hi, I'm Jacob
 
-<!---
-Lazarus74834/Lazarus74834 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build things I enjoy, mostly to experiment and learn something new. London.
+
+**Working on**
+- **Shallot RTS**: a WW2 real-time strategy game in the browser. Currently messing with flow-field pathfinding, terrain movement and skirmish AI.
+- **[Navi](https://navi-plum-zeta.vercel.app)**: a travel app that pulls places out of TikTok/YouTube videos. SwiftUI, Next.js, Supabase, Gemini.
+
+**Other bits**
+- **[Mk3 Progress Tracker](https://github.com/Lazarus74834/Progress-Tracker-MK3)**: tracks cadet progress through the Army Cadet Force star levels.
+- **ACF Stores** and **CadetCore**: equipment and attendance tools for cadet units.
+
+**Usually writing** TypeScript, Swift, Python
